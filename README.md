@@ -1,6 +1,11 @@
 # Dynamica
 Ask what you want to achieve, Dynamica will show you the way to do it by showing which buttons to click.
 
+## General Contact
+For anything related to Dynamica, feel free to contact contact@dynamicaai.com
+
+---
+
 # Privacy Policy for Dynamica
 
 _Last updated: 24 June 2025_
@@ -74,5 +79,3 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 
 
-# Contact
-For anything related to Dynamica, feel free to contact contact@dynamicaai.com
