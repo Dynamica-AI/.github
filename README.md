@@ -69,3 +69,10 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 ---
 
 *This policy is provided as part of our compliance for the Chrome Web Store Developer Dashboard requirements.*
+
+
+
+
+
+# Contact
+For anything related to Dynamica, feel free to contact contact@dynamicaai.com
